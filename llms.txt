@@ -1,0 +1,9 @@
+# Vicknesh Balasubramaniam
+
+> Mobile architect in Malaysia (Nilai, Negeri Sembilan). 14+ years building Android and Flutter apps for AirAsia, Maxis, SmartRetail, DACSEE and AFED Digital. Currently Senior Mobile Application Developer / Mobile Architect at AFED Digital.
+
+- [Portfolio](https://roninprogrammer.github.io/home.html): experience, selected work, live apps, skills, contact
+- [CV](https://roninprogrammer.github.io/cv.html): full work history; PDF at https://roninprogrammer.github.io/Vicknesh_Balasubramaniam_CV.pdf
+- [Santé case study](https://roninprogrammer.github.io/sante.html): loyalty and order-ahead platform built solo (Flutter, Go on Encore, 284 endpoints)
+- [3D office](https://roninprogrammer.github.io/): interactive version of the portfolio
+- Contact: roninprogrammer@gmail.com · https://www.linkedin.com/in/vickneshbalasubramaniam/ · https://github.com/roninprogrammer
